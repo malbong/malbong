@@ -6,11 +6,11 @@
 
 ---
 
-😃 I'm a Cadet in 42seoul
+🧑‍🎓 I'm a Cadet in 42seoul
 
-😃 In 42seoul, I'm studying the basic computer science
+💾 In 42seoul, I'm studying the basic computer science
 
-😃 I'm interested in computer graphics, game programming and more
+🕹️ I'm interested in computer graphics, game programming and more
 
 ---
 
