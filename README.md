@@ -6,14 +6,14 @@
 
 ---
 
-🧑‍🎓 I'm a Cadet in 42seoul
+🧑‍🎓  I'm a Cadet in 42seoul
 
-💾 In 42seoul, I'm studying the basic computer science
+💾  In 42seoul, I'm studying the basic computer science
 
-🕹️ I'm interested in computer graphics, game programming and more
+🕹️  I'm interested in computer graphics, game programming and more
 
 ---
 
-🖥️  2020/10 ~ ... : 42seoul
+🖥️   2020/10 ~ ... : 42seoul
 
-🪖  2021/10 ~ 2023/04: military service
+🪖   2021/10 ~ 2023/04: military service
