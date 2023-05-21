@@ -2,7 +2,7 @@
 
 --- 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/heryu)](https://github.com/JaeSeoKim/badge42)
+[![heryu's 42 stats](https://badge42.vercel.app/api/v2/clhx4ngjv003008k469guteyk/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 ---
 
